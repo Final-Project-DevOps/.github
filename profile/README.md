@@ -1,55 +1,87 @@
-# Final Project DevOps Platform
+# DevOps Deployment Platform
 
-A collaborative software platform demonstrating application development,
-containerization, deployment workflow, and DevOps practices.
+A cloud-oriented full-stack application platform demonstrating modern software delivery practices, automated deployment workflow, and application observability.
+
+
+## Overview
+
+This project implements:
+
+- React frontend application
+- TypeScript backend service
+- Prisma ORM database management
+- Docker containerization
+- CI/CD automation
+- Prometheus-based monitoring
+
 
 ## Architecture
 
-Frontend
-↓
+
+User
+ |
+Firebase Hosting
+ |
+React Frontend
+ |
 Backend API
-↓
+ |
+Prisma ORM
+ |
 Database
-↓
-Infrastructure Layer
+
+
+Monitoring:
+
+Backend Metrics
+ |
+Prometheus
 
 
 ## Components
 
-### Backend
-Technology:
-- Node.js / Laravel / etc
-
-Repository:
-- application-backend
-
 
 ### Frontend
+
 Technology:
-- React / Vue / etc
-
-Repository:
-- application-frontend
-
-
-### Infrastructure
-
-Contains:
-- Docker configuration
-- Deployment scripts
-- Environment configuration
-- CI/CD workflow
+- JavaScript
+- React
+- Firebase Hosting
 
 
-## DevOps Practices
+### Backend
 
-Implemented:
-- Containerization using Docker
-- Environment management
-- Deployment automation
-- Version control collaboration
+Technology:
+- TypeScript
+- Prisma
+- Docker
+- Prometheus
 
 
-## Contributors
+## DevOps Workflow
 
-Final Project DevOps Team
+Frontend:
+
+Git Push
+↓
+Firebase Workflow
+↓
+Build
+↓
+Deployment
+
+
+Backend:
+
+Git Push
+↓
+GitHub Actions
+↓
+Validation
+↓
+Deployment
+
+
+## Live Application
+
+https://fir-react-devops.web.app/
