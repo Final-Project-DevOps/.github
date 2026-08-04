@@ -103,7 +103,7 @@ React-based web application.
 
 Repository:
 
-https://github.com/Final-Project-DevOps/Front-End
+[KnowHub Frontend](https://github.com/Final-Project-DevOps/Front-End)
 
 ---
 
@@ -113,7 +113,7 @@ Backend REST API service built with TypeScript and Prisma.
 
 Repository:
 
-https://github.com/Final-Project-DevOps/Back-end
+[KnowHub Backend](https://github.com/Final-Project-DevOps/Back-end)
 
 ---
 
@@ -131,7 +131,7 @@ Includes:
 
 Repository:
 
-https://github.com/Final-Project-DevOps/infrastructure
+[KnowHub Infrastructure](https://github.com/Final-Project-DevOps/infrastructure)
 
 ---
 
@@ -154,17 +154,17 @@ https://github.com/Final-Project-DevOps/infrastructure
 
 # Project Highlights
 
-✓ Containerized application architecture
+✓ Containerized frontend and backend services using Docker
 
-✓ Automated deployment workflow
+✓ Automated CI/CD workflow using GitHub Actions
 
-✓ Docker Swarm-based service orchestration
+✓ Docker Swarm-based application orchestration
 
-✓ Monitoring using Prometheus and Grafana
+✓ Infrastructure monitoring using Prometheus and Grafana
 
-✓ Secure configuration management
+✓ Secure configuration management using Docker Secrets
 
-✓ Infrastructure documentation and architecture design
+✓ Documented deployment architecture and operational workflow
 
 ---
 
@@ -190,3 +190,14 @@ Project documentation is available inside the infrastructure repository, includi
 ## Project Team
 
 Developed as a collaborative DevOps project implementing application development, infrastructure management, deployment automation, and monitoring practices.
+
+# Engineering Focus
+
+This project demonstrates practical experience in:
+
+- DevOps Engineering
+- Cloud Infrastructure
+- CI/CD Automation
+- Containerization
+- System Monitoring
+- Application Deployment
