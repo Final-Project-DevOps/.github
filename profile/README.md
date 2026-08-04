@@ -1,5 +1,11 @@
 # KnowHub DevOps Platform
 
+![Docker](https://img.shields.io/badge/Docker-Containerization-blue)
+![Docker Swarm](https://img.shields.io/badge/Docker-Swarm-blue)
+![Prometheus](https://img.shields.io/badge/Monitoring-Prometheus-orange)
+![Grafana](https://img.shields.io/badge/Dashboard-Grafana-yellow)
+![CI/CD](https://img.shields.io/badge/Pipeline-GitHub_Actions-black)
+
 A DevOps-oriented application platform implementing modern software delivery practices, containerization, deployment automation, and infrastructure monitoring.
 
 ---
